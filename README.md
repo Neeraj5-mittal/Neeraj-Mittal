@@ -1,7 +1,19 @@
 # 👋 Hello, I’m Neeraj Mittal<br><br>⚡ Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer
-<br>I’m passionate about bridging data, intelligence, and applications. My mission is to craft solutions that are scalable, impactful, and user-friendly — combining the best of machine learning, data analytics, and modern development frameworks.<br>
-# <br><br>💻 About Me<br><br>
-🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br><br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br><br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br><br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency<br><br>🚀 What Drives Me<br><br>✨ Turning raw data into actionable insights<br>🤝 Building intelligent, scalable applications that solve real-world problems<br>📚 Exploring the intersection of AI, Big Data, and Cloud technologies<br><br>🛠️ Tech Toolbox<br><br>💡 Languages & Tools<br><br>Python | C++ | JavaScript<br><br>FastAPI | React | Node.js<br><br>MongoDB | SQL | Power BI | Excel<br><br>NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow<br><br>☁️ Interests<br><br>Machine Learning & Deep Learning<br><br>Big Data & Cloud AI<br><br>Data Analytics & Visualization<br><br>AI in Education & Cybersecurity<br><br>🌟 Beyond Tech<br><br>🎨 Enjoy designing clean, aesthetic dashboards & visuals<br><br>🧩 Love solving puzzles, brainstorming, and innovating<br><br>📚 Believe in learning → sharing → growing<br><br>🌐 Let’s Connect<br><br>💼 LinkedIn: www.linkedin.com/in/neeraj-mittal-0a047b221<br><br>📧 neerajmittalds@gmail.com<br><br>🏗️ Portfolio: Coming Soon 🚧<br><br>🚀 My Philosophy<br><br>✨ "Technology isn’t just about solving problems — it’s about creating possibilities."
+I’m passionate about bridging data, intelligence, and applications. My mission is to craft solutions that are scalable, impactful, and user-friendly — combining the best of machine learning, data analytics, and modern development frameworks.
+# 💻 About Me
+🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br><br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br><br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br><br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency<br>
+# <br>🚀 What Drives Me<br>
+<br>✨ Turning raw data into actionable insights<br>🤝 Building intelligent, scalable applications that solve real-world problems<br>📚 Exploring the intersection of AI, Big Data, and Cloud technologies<br>
+# <br>🛠️ Tech Toolbox<br>
+<br>💡 Languages & Tools:<br><br>Python | C++ | JavaScript<br><br>FastAPI | React | Node.js<br><br>MongoDB | SQL | Power BI | Excel<br><br>NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow<br>
+# <br>☁️ Interests<br>
+<br>Machine Learning & Deep Learning<br><br>Big Data & Cloud AI<br><br>Data Analytics & Visualization<br><br>AI in Education & Cybersecurity<br>
+# <br>🌟 Beyond Tech<br>
+<br>🎨 Enjoy designing clean, aesthetic dashboards & visuals<br><br>🧩 Love solving puzzles, brainstorming, and innovating<br><br>📚 Believe in learning → sharing → growing<br>
+# <br>🌐 Let’s Connect<br>
+<br>💼 LinkedIn: www.linkedin.com/in/neeraj-mittal-0a047b221<br><br>📧 neerajmittalds@gmail.com<br><br>🏗️ Portfolio: Coming Soon 🚧<br>
+# <br>🚀 My Philosophy<br>
+<br>✨ "Technology isn’t just about solving problems — it’s about creating possibilities."
 
 
 # 🌐 Socials:
