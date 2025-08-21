@@ -1,17 +1,17 @@
-# 👋 Hello, I’m Neeraj Mittal<br><br>⚡ Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer
+# 👋 Hello, I’m Neeraj Mittal<br>⚡ Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer
 I’m passionate about bridging data, intelligence, and applications. My mission is to craft solutions that are scalable, impactful, and user-friendly — combining the best of machine learning, data analytics, and modern development frameworks.
 # 💻 About Me
-🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br><br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br><br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br><br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency
+🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency
 # 🚀 What Drives Me
 ✨ Turning raw data into actionable insights<br>🤝 Building intelligent, scalable applications that solve real-world problems<br>📚 Exploring the intersection of AI, Big Data, and Cloud technologies
 # 🛠️ Tech Toolbox
 💡 Languages & Tools:<br><br>Python | C++ | JavaScript<br><br>FastAPI | React | Node.js<br><br>MongoDB | SQL | Power BI | Excel<br><br>NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow
 # ☁️ Interests
-Machine Learning & Deep Learning<br><br>Big Data & Cloud AI<br><br>Data Analytics & Visualization<br><br>AI in Education & Cybersecurity
+Machine Learning & Deep Learning<br>Big Data & Cloud AI<br><br>Data Analytics & Visualization<br>AI in Education & Cybersecurity
 # 🌟 Beyond Tech
-🎨 Enjoy designing clean, aesthetic dashboards & visuals<br><br>🧩 Love solving puzzles, brainstorming, and innovating<br><br>📚 Believe in learning → sharing → growing
+🎨 Enjoy designing clean, aesthetic dashboards & visuals<br>🧩 Love solving puzzles, brainstorming, and innovating<br>📚 Believe in learning → sharing → growing
 # <br>🌐 Let’s Connect<br>
-💼 LinkedIn: www.linkedin.com/in/neeraj-mittal-0a047b221<br><br>📧 neerajmittalds@gmail.com<br><br>🏗️ Portfolio: Coming Soon 🚧
+💼 LinkedIn: www.linkedin.com/in/neeraj-mittal-0a047b221<br>📧 neerajmittalds@gmail.com<br>🏗️ Portfolio: Coming Soon 🚧
 # 🚀 My Philosophy
 ✨ "Technology isn’t just about solving problems — it’s about creating possibilities."
 
