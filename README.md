@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Neeraj Mittal<br>⚡##Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer##
+# 👋 Hello, I’m Neeraj Mittal<br>**⚡Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer##**
 I’m passionate about bridging data, intelligence, and applications. My mission is to craft solutions that are scalable, impactful, and user-friendly — combining the best of machine learning, data analytics, and modern development frameworks.
 # 💻 About Me
 🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency
