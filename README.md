@@ -5,9 +5,9 @@ I’m passionate about bridging data, intelligence, and applications. My mission
 # 🚀 What Drives Me
 ✨ Turning raw data into actionable insights<br>🤝 Building intelligent, scalable applications that solve real-world problems<br>📚 Exploring the intersection of AI, Big Data, and Cloud technologies
 # 🛠️ Tech Toolbox
-💡 Languages & Tools:<br><br>Python | C++ | JavaScript<br><br>FastAPI | React | Node.js<br><br>MongoDB | SQL | Power BI | Excel<br><br>NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow
+💡 Languages & Tools:Advanced Python | C++ <br> Machine Learning | Deep Learning | Google Analytics | Statistical Modeling | Model Deployment<br> TensorFlow | Keras | PyTorch | Scikit-learn | Pandas | NumPy | OpenCV | NLTK | XGBoost<br>MYSQL | MongoDB<br>AWS | Azure | Google Cloud<br>VS Code | PyCharm | Jupyter Notebook | Google Colab
 # ☁️ Interests
-Machine Learning & Deep Learning<br>Big Data & Cloud AI<br><br>Data Analytics & Visualization<br>AI in Education & Cybersecurity
+Machine Learning & Deep Learning<br>Big Data & Cloud AI<br>Data Analytics & Visualization<br>AI in Education & Cybersecurity
 # 🌟 Beyond Tech
 🎨 Enjoy designing clean, aesthetic dashboards & visuals<br>🧩 Love solving puzzles, brainstorming, and innovating<br>📚 Believe in learning → sharing → growing
 # <br>🌐 Let’s Connect<br>
