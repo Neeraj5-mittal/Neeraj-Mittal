@@ -1,13 +1,14 @@
-# 👋 Hello, I’m Neeraj Mittal<br>**⚡Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer##**
+# 👋 Hello, I’m Neeraj Mittal<br>
+**⚡Tech Explorer | 🤖 AI/ML Enthusiast | 📊 Data Analyst & Scientist | 🐍 Python Developer**<br>
 I’m passionate about bridging data, intelligence, and applications. My mission is to craft solutions that are scalable, impactful, and user-friendly — combining the best of machine learning, data analytics, and modern development frameworks.
 # 💻 About Me
 🎯 Strong interest in AI-driven innovation, Data Science, and Big Data systems<br>🛠 Hands-on with Python, FastAPI, React, MongoDB, SQL, and Data Visualization tools<br>🌍 Exploring how AI/ML can transform industries like EdTech, Security, and Retail<br>🌱 Lifelong learner — I believe growth comes from curiosity + consistency
 # 🚀 What Drives Me
 ✨ Turning raw data into actionable insights<br>🤝 Building intelligent, scalable applications that solve real-world problems<br>📚 Exploring the intersection of AI, Big Data, and Cloud technologies
-# 🛠️ Tech Toolbox
-💡 Languages & Tools:Advanced Python | C++ <br> Machine Learning | Deep Learning | Google Analytics | Statistical Modeling | Model Deployment<br> TensorFlow | Keras | PyTorch | Scikit-learn | Pandas | NumPy | OpenCV | NLTK | XGBoost<br>MYSQL | MongoDB<br>AWS | Azure | Google Cloud<br>VS Code | PyCharm | Jupyter Notebook | Google Colab
+# 🎯 Fun Side of Me
+🎵 Music Lover – From Lo-fi while coding to Bollywood & EDM for energy<br>⚽ Sports Enthusiast – Football, cricket & a bit of badminton on weekends<br>💪 Fitness & Gym – Strength training, staying active & building consistency<br>📚 Avid Reader – Tech blogs, biographies & self-growth books
 # ☁️ Interests
-Machine Learning & Deep Learning<br>Big Data & Cloud AI<br>Data Analytics & Visualization<br>AI in Education & Cybersecurity
+🤖 Machine Learning & Deep Learning<br>📡 Big Data & Cloud AI<br>📊 Data Analytics & Visualization<br>🛡️ AI in Education & Cybersecurity
 # 🌟 Beyond Tech
 🎨 Enjoy designing clean, aesthetic dashboards & visuals<br>🧩 Love solving puzzles, brainstorming, and innovating<br>📚 Believe in learning → sharing → growing
 # <br>🌐 Let’s Connect<br>
